@@ -1,5 +1,6 @@
 {
   "name": "personal-website",
+  "homepage": "https://sashenka.com.au/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -5,7 +5,7 @@ const Home = () => {
     return (
     <div className='home'>
         <div className='title'>
-            <text>Hi. My name is Sashenka. I'm a final year Software Engineering and Business Analytics student at Monash University.</text>
+            <text>Hi! My name is Sashenka. I'm a final year Software Engineering and Business Analytics student at Monash University.</text>
         </div>
 
         <div className="home-links">
