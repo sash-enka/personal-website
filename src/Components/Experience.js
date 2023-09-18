@@ -4,6 +4,7 @@ import WavingHandRoundedIcon from '@mui/icons-material/WavingHandRounded';
 const Experience = () => {
 
     return (
+        <div className='experience-contact-footer'>
     <div className='experience-contact' id='experience'>
         {/* EXPERIENCE */}
         <div className='experience'>
@@ -48,13 +49,13 @@ const Experience = () => {
             </div>
         
         </div>
-
+    </div>
         {/* FOOTER */}
         <div className='footer'>
-            <div className='footer-item'>
-                <text className='footer-item-text'>Sashenka Justin 2023 &copy;</text>
-            </div>
+        <div className='footer-item'>
+            <text className='footer-item-text'>Sashenka Justin 2023 &copy;</text>
         </div>
+    </div>
     </div>
     );
 }
