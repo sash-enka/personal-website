@@ -53,7 +53,7 @@ const Experience = () => {
         {/* FOOTER */}
         <div className='footer'>
         <div className='footer-item'>
-            <text className='footer-item-text'>Sashenka Justin 2023 &copy;</text>
+            <text className='footer-item-text'>&copy; Sashenka Justin 2023</text>
         </div>
     </div>
     </div>
